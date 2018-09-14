@@ -1,15 +1,6 @@
 
 # coding: utf-8
 
-# In[ ]:
-
-
-
-
-
-# In[2]:
-
-
 from tkinter import *
 
 frame=Tk()
